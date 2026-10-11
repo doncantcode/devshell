@@ -1,0 +1,5 @@
+build/
+devshell
+*.o
+*.d
+*.exe

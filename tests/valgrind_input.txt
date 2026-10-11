@@ -1,0 +1,11 @@
+echo hello | tr a-z A-Z
+echo data > /tmp/devshell_vg.txt
+cat < /tmp/devshell_vg.txt
+rm /tmp/devshell_vg.txt
+ls -l
+nosuchcommand
+echo "unterminated
+echo hi |
+cd /tmp
+pwd
+exit
